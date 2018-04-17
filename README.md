@@ -7,6 +7,8 @@
 
 **Many, many thanks to all contributors! As of now, 26 of the modules are from various contributors (!), and only 16 from myself.**
 
+![Solarized Powerline](https://github.com/tobi-wan-kenobi/bumblebee-status/blob/master/screenshots/themes/powerline-solarized.png)
+
 bumblebee-status is a modular, theme-able status line generator for the [i3 window manager](https://i3wm.org/).
 
 Focus is on:
@@ -43,6 +45,10 @@ Other resources:
 ```
 $ git clone git://github.com/tobi-wan-kenobi/bumblebee-status
 ```
+
+# Dependencies
+[Available modules](https://github.com/tobi-wan-kenobi/bumblebee-status/wiki/Available-Modules) lists the dependencies (Python modules and external executables)
+for each module. If you are not using a module, you don't need the dependencies.
 
 # Usage
 ## Normal usage
